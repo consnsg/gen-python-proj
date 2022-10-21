@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="a52256cb7d1c.mylabserver.com" id="889ea729-fdd9-49dd-95d7-3a7d299d1849" port="22" nameFormat="DESCRIPTIVE" username="cloud_user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

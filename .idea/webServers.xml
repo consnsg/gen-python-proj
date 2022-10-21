@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="569ed166-1dbd-4c5f-904c-2519d06bb814" name="cloud_user">
+        <fileTransfer rootFolder="/home/cloud_user" accessType="SFTP" host="a52256cb7d1c.mylabserver.com" port="22" sshConfigId="889ea729-fdd9-49dd-95d7-3a7d299d1849" sshConfig="cloud_user@a52256cb7d1c.mylabserver.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
